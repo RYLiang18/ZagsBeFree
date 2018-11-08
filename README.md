@@ -46,9 +46,14 @@ It's about to get super complicated. Follow my directions closely...
 
 ## Demo Conversation
 User: Ok Google, unlock zag 3237
+
 Google Assistant: Ok. You should receive an SMS notification with the unlock code soon
+
 Zagster SMS bot: Your rental of bike 3337 has begun. Unlock by typing 33131 into the bike's keypad. This code is available...
+
 *30 minutes later*
+
 IFTTT: *sends text message saying "end" to the Zagster SMS bot*
+
 Zagster SMS bot: Your zagster has ended. Thanks for riding Zagster!
 
